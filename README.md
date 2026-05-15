@@ -135,8 +135,6 @@ MIT License
 
 ## Citation
 
-If you use this code in academic work, please cite:
-
 P. A. A. Yasir, "Realization of general first-order optical systems using nine thin cylindrical lenses of arbitrary focal length and four units of free propagation distance", Journal of the Optical Society of America A 38 644 (2021).
 
 https://doi.org/10.1364/JOSAA.423143
